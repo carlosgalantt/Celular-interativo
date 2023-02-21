@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.iphone{
+    width: 810px;
+    height: 710px;
+    margin-top: 10px;
+}
+.opcoes{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -600px;
+}
+a{
+    background-color: 	#1E90FF;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 16px;
+    font-size: 1.7em;
+    font-family: 'Poppins', sans-serif;
+}
+li{
+    list-style-type:none;
+}
+a:hover{
+    background-color:	#06325e ;
+    padding: 13px;
+    transition: 0.1s;
+}
+iframe{
+    width: 260px;
+    height: 450px;
+    margin-left: -538px;
+    margin-bottom: 159px;
+}
